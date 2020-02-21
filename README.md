@@ -1,5 +1,6 @@
 # yg
 基于8266的智能鱼缸
+# 演示视频：https://www.bilibili.com/video/av90695761/
 # 这是一个校内比赛，随缘维护，基本功能实现，细节需要优化
 
 ![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201943.jpg)
