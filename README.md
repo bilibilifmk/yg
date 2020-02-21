@@ -5,6 +5,9 @@
 ![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201943.jpg)
 ![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201948.jpg)
 ![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_202016.jpg)
+![image](https://github.com/bilibilifmk/yg/blob/master/%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg)
+![image](https://github.com/bilibilifmk/yg/blob/master/%E8%AE%BE%E7%BD%AE.jpg)
+![image](https://github.com/bilibilifmk/yg/blob/master/%E9%85%8D%E7%BD%91.jpg)
 ## 材料
 1.esp8266 *1 
 
