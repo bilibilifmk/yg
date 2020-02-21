@@ -1,0 +1,11 @@
+unsigned wss,sls,yggds,zgwds; //喂食代码   食量  鱼缸高度   最高温度
+  
+
+   EEPROM.get(300,wss);  //喂食代码
+    EEPROM.get(400,sls);  //食量
+    EEPROM.get(500,yggds); //鱼缸高度
+    EEPROM.get(600,zgwds); //最高温度
+
+
+unsigned sy,wd,gl,sxh,dg,wsqk; // 水位 温度 供料 水循环 灯光 喂食情况
+int djs,biaoji; //喂食倒计时  标记
