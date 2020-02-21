@@ -2,9 +2,9 @@
 基于8266的智能鱼缸
 # 这是一个校内比赛，随缘维护，基本功能实现，细节需要优化
 
-[image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201943.jpg)
-[image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201948.jpg)
-[image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_202016.jpg)
+![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201943.jpg)
+![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_201948.jpg)
+![image](https://github.com/bilibilifmk/yg/blob/master/P_20191016_202016.jpg)
 ## 材料
 1.esp8266 *1 
 
